@@ -6,7 +6,7 @@ export class Header extends React.Component {
         render() {
 
         return (
-            <Navbar bg="light" expand="lg">
+            <Navbar bg="light" expand="md">
             <Navbar.Brand href="/home">JUAL</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
